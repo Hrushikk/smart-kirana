@@ -7,11 +7,11 @@ and visualize business performance with interactive charts.
 ---
 
 ##  Features
-- ** Home Dashboard** – View daily sales and get instant low-stock alerts.  
-- ** Inventory Management** – Track product stock, reorder items quickly, and add new products.  
-- ** Loyalty Wallet** – Manage customer rewards, track points, and share offers via WhatsApp.  
+- **Home Dashboard** – View daily sales and get instant low-stock alerts.  
+- **Inventory Management** – Track product stock, reorder items quickly, and add new products.  
+- **Loyalty Wallet** – Manage customer rewards, track points, and share offers via WhatsApp.  
 - **Reports & Insights** – Interactive charts for sales trends, payment breakdown, and top-selling products.  
-- ** Dark UI Theme** – Modern, vibrant design for better user experience.  
+- **Dark UI Theme** – Modern, vibrant design for better user experience.  
 
 ---
 
