@@ -30,9 +30,10 @@ and visualize business performance with interactive charts.
    git clone https://github.com/your-username/smart-kirana.git
    cd smart-kirana
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
-3. Run the Streamlit app:
+4. Run the Streamlit app:
+   ```bash
    streamlit run app.py
 
-5. 
-6. 
+   
