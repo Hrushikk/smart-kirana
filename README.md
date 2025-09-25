@@ -1,4 +1,4 @@
-# 🛒 Smart Kirana – Retail Management Dashboard
+#  Smart Kirana – Retail Management Dashboard
 
 **Smart Kirana** is a **Streamlit-based dashboard** built for small retail shops and kirana stores.  
 It provides an easy way to manage inventory, track sales, engage customers through loyalty points,  
@@ -6,16 +6,16 @@ and visualize business performance with interactive charts.
 
 ---
 
-## 🚀 Features
-- **🏠 Home Dashboard** – View daily sales and get instant low-stock alerts.  
-- **📦 Inventory Management** – Track product stock, reorder items quickly, and add new products.  
-- **❤️ Loyalty Wallet** – Manage customer rewards, track points, and share offers via WhatsApp.  
-- **📊 Reports & Insights** – Interactive charts for sales trends, payment breakdown, and top-selling products.  
-- **🎨 Dark UI Theme** – Modern, vibrant design for better user experience.  
+##  Features
+- ** Home Dashboard** – View daily sales and get instant low-stock alerts.  
+- ** Inventory Management** – Track product stock, reorder items quickly, and add new products.  
+- ** Loyalty Wallet** – Manage customer rewards, track points, and share offers via WhatsApp.  
+- **Reports & Insights** – Interactive charts for sales trends, payment breakdown, and top-selling products.  
+- ** Dark UI Theme** – Modern, vibrant design for better user experience.  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**
 - **Streamlit** – App framework & UI
 - **Pandas** – Data handling
@@ -23,7 +23,7 @@ and visualize business performance with interactive charts.
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -36,7 +36,7 @@ and visualize business performance with interactive charts.
    ```bash
    streamlit run app.py
 
-## ⚙️ SCREENSHOTS
+##  SCREENSHOTS
 <img width="1078" height="496" alt="image" src="https://github.com/user-attachments/assets/cf2e29da-4d38-4313-a90a-2e702c7d4edd" />
 <img width="1139" height="496" alt="image" src="https://github.com/user-attachments/assets/41b98156-db20-434b-a1fa-383d8f164102" />
 <img width="1078" height="548" alt="image" src="https://github.com/user-attachments/assets/c6bb4375-83c2-40d5-bc07-1e31d53157a0" />
