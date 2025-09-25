@@ -36,4 +36,18 @@ and visualize business performance with interactive charts.
    ```bash
    streamlit run app.py
 
+## ⚙️ SCREENSHOTS
+<img width="1078" height="496" alt="image" src="https://github.com/user-attachments/assets/cf2e29da-4d38-4313-a90a-2e702c7d4edd" />
+<img width="1139" height="496" alt="image" src="https://github.com/user-attachments/assets/41b98156-db20-434b-a1fa-383d8f164102" />
+<img width="1078" height="548" alt="image" src="https://github.com/user-attachments/assets/c6bb4375-83c2-40d5-bc07-1e31d53157a0" />
+<img width="477" height="341" alt="image" src="https://github.com/user-attachments/assets/ca654bfa-39b9-495b-8f6f-9c01731ed960" />
+<img width="442" height="340" alt="image" src="https://github.com/user-attachments/assets/295a77fd-b110-4783-9da8-666793fa8bf3" />
+<img width="480" height="356" alt="image" src="https://github.com/user-attachments/assets/a1299e5a-eef8-4306-9e35-ec277a300fc9" />
+
+
+
+
+
+
+
    
